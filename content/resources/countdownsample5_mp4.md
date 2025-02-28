@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ibrahim-test-yts/1koNbya5MQTebsGV-NeSm3rLCBW-pXVnh/countdownsample5.mp4
-file_size: 1156860
+file: /courses/ibrahim-test-yts-ibrahim-test-yts-spring-2022/countdownsample5_360p_16_9.mp4
+file_size: 937391
 file_type: video/mp4
 image_metadata:
   caption: ''

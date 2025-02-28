@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ibrahim-test-yts/countdownsample_transcript.pdf
+file: /courses/ibrahim-test-yts-ibrahim-test-yts-spring-2022/countdownsample_transcript.pdf
 file_size: 18264
 file_type: application/pdf
 image_metadata:
